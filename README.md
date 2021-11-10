@@ -1,1 +1,2 @@
-# c30hw.github.io
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
